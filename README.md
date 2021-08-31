@@ -3,7 +3,8 @@ Did you come here secure a technical interview once you have sent us your CV ?
 Awesome, can't wait to meet you!
 
 In order to prepare the interview, we would like you to complete a basic technical test, which will allow us to discover how you think, you know, in the code.
-This will be our base of conversation during the interview, we will discuss the pro and cons of the different solutions you can think of.
+
+This will be our base of conversation during the interview, we will discuss the pros and cons of the different solutions you can think of.
 
 Please find below our opened positions and the link to their respective technical test.
 
